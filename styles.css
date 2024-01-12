@@ -98,6 +98,7 @@ input {
 
 .custom {
     border: 1px solid bisque;
+    min-width: 300px;
     width: 30%;
     margin: 20px auto;
     background-color: rgba(255,255,255,0);
